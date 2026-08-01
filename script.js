@@ -1,6 +1,6 @@
 const t={
-ru:{subtitle:'Нержавейка Борбору №1',wa:'📱 WhatsApp',call:'☎ Позвонить',insta:'📷 Instagram',tt:'🎵 TikTok',map:'📍 Наш адрес',footer:'Работаем по всему Кыргызстану'},
-kg:{subtitle:'Дат баспас болот борбору №1',wa:'📱 WhatsApp',call:'☎ Чалуу',insta:'📷 Instagram',tt:'🎵 TikTok',map:'📍 Дарек',footer:'Кыргызстан боюнча иштейбиз'}
+ru:{subtitle:'Нержавейка борбору №1',wa:'📱 WhatsApp',call:'☎ Позвонить',insta:'📷 Instagram',tt:'🎵 TikTok',map:'📍 Наш адрес',footer:'Работаем по всему Кыргызстану'},
+kg:{subtitle:'Нержавейка борбору №1',wa:'📱 WhatsApp',call:'☎ Чалуу',insta:'📷 Instagram',tt:'🎵 TikTok',map:'📍 Дарек',footer:'Кыргызстан боюнча иштейбиз'}
 };
 function setLang(l){
 localStorage.lang=l;
